@@ -1,2 +1,2 @@
 # Brain_Head
-Linear Regression is used to predict the relationship between the head size and the brain weight.
+HeadBrain uses machine learning concepts to predict the size of Brain in against of Head weight, we train,test, analyse and predict data from our model which is built upon the concepts of Simple Linear Regression
